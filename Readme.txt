@@ -22,7 +22,7 @@
   ##
 
 
-- 🔭 Atualmente trabalho com front-end e back-end
+- 🔭 Atualmente trabalhando como Service desk
 - ☕ Trabalhando com Java mas tocando projeto em flutter. 
 - 👯 Engenheiro de computação em formação
 - 📫 How to reach me: gustavohj039@gmail.com
