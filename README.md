@@ -1,5 +1,6 @@
 # CursoHTML5
 Curso para introdução de HTML5
+
 Curso de HTML5 [40 Horas] do site https://www.cursoemvideo.com/curso/html5/
 
 HTML5 (Hypertext Markup Language, versão 5) é uma linguagem de estruturação e apresentação de conteúdo para a World Wide Web. O conhecimento desta linguagem, 
